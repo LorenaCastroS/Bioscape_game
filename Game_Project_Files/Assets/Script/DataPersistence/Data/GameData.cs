@@ -10,6 +10,7 @@ public class GameData
     ----------------------------------------------------------------------------------*/
     public string _currentScene;
     public string _TutorialMission;
+    public int _TutorialMissionText;
     public Vector3 _playerPosition;
     public SerializableDictionary<string, bool> _allDialogs;
     public SerializableDictionary<string, bool> _allReports;
@@ -28,6 +29,7 @@ public class GameData
     public bool _Key;
     public int _currentMissionIndex;
     public int _currentOrder;
+    public int TextCurrentOrder;
     public int _missionCompleted;
 
 

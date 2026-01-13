@@ -1595,38 +1595,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 930364248}
     m_Modifications:
-    - target: {fileID: 450408569755124232, guid: f74e9e757234b834ab5f5520de959fe3, type: 3}
-      propertyPath: localizedStringDef.m_TableEntryReference.m_KeyId
-      value: 16061231104
-      objectReference: {fileID: 0}
-    - target: {fileID: 450408569755124232, guid: f74e9e757234b834ab5f5520de959fe3, type: 3}
-      propertyPath: localizedStringBath.m_TableEntryReference.m_KeyId
-      value: 12427308756992
-      objectReference: {fileID: 0}
-    - target: {fileID: 450408569755124232, guid: f74e9e757234b834ab5f5520de959fe3, type: 3}
-      propertyPath: localizedStringGarden.m_TableEntryReference.m_KeyId
-      value: 17906856554496
-      objectReference: {fileID: 0}
-    - target: {fileID: 450408569755124232, guid: f74e9e757234b834ab5f5520de959fe3, type: 3}
-      propertyPath: localizedStringKitchen.m_TableEntryReference.m_KeyId
-      value: 17304600637440
-      objectReference: {fileID: 0}
-    - target: {fileID: 450408569755124232, guid: f74e9e757234b834ab5f5520de959fe3, type: 3}
-      propertyPath: localizedStringDef.m_TableReference.m_TableCollectionName
-      value: GUID:32d5da7f158a1d7439d01243c44094e2
-      objectReference: {fileID: 0}
-    - target: {fileID: 450408569755124232, guid: f74e9e757234b834ab5f5520de959fe3, type: 3}
-      propertyPath: localizedStringBath.m_TableReference.m_TableCollectionName
-      value: GUID:32d5da7f158a1d7439d01243c44094e2
-      objectReference: {fileID: 0}
-    - target: {fileID: 450408569755124232, guid: f74e9e757234b834ab5f5520de959fe3, type: 3}
-      propertyPath: localizedStringGarden.m_TableReference.m_TableCollectionName
-      value: GUID:32d5da7f158a1d7439d01243c44094e2
-      objectReference: {fileID: 0}
-    - target: {fileID: 450408569755124232, guid: f74e9e757234b834ab5f5520de959fe3, type: 3}
-      propertyPath: localizedStringKitchen.m_TableReference.m_TableCollectionName
-      value: GUID:32d5da7f158a1d7439d01243c44094e2
-      objectReference: {fileID: 0}
     - target: {fileID: 3434926974872052033, guid: f74e9e757234b834ab5f5520de959fe3, type: 3}
       propertyPath: m_Name
       value: Hud

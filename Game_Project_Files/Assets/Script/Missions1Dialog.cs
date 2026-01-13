@@ -15,6 +15,10 @@ public class Missions1Dialog : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+
+    }
+    private void Start()
+    {
+        TutorialMission.TextCurrentOrder = 5;
     }
 }

@@ -20,7 +20,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 324996886528
-    m_Key: TalkFrancisco
+    m_Key: TalkFranciscos
     m_Metadata:
       m_Items: []
   - m_Id: 681625972736
@@ -28,11 +28,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 987340402688
-    m_Key: TalkMiltinho
+    m_Key: TalkMiltinhos
     m_Metadata:
       m_Items: []
   - m_Id: 1416518365184
-    m_Key: SolveProblem
+    m_Key: SolveProblems
     m_Metadata:
       m_Items: []
   - m_Id: 13396952614776832

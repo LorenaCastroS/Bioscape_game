@@ -9,6 +9,7 @@ public class TalkedToMilton : MonoBehaviour, IDataPersistence
     void Start()
     {
         _I = true;
+        TutorialMission.TextCurrentOrder = 3;
     }
 
     // Update is called once per frame

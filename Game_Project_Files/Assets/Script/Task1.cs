@@ -27,12 +27,16 @@ public class Task1 : MonoBehaviour, IDataPersistence
             Debug.Log("Green");
             _I = true;
             DataPersistenceManager.instance.Task1Result = _I;
+            DataPersistenceManager.instance.MissionCompleted = 2;
+            TutorialMission.TextCurrentOrder = 1;
         }
         if (Result.Equals("Yellow"))
         {
             Debug.Log("Yellow");
             _I = true;
             DataPersistenceManager.instance.Task1Result = _I;
+            DataPersistenceManager.instance.MissionCompleted = 2;
+            TutorialMission.TextCurrentOrder = 1;
         }
         if (Result.Equals("Red"))
         {

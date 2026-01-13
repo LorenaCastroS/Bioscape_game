@@ -24,6 +24,7 @@ public class SecondMissionDialog : MonoBehaviour
     {
         if (_I == 3)
         {
+            TutorialMission.TextCurrentOrder = 2;
             DataPersistenceManager.instance.CurrentOrder = 4;
           //  Cellphone.Instance.ShowNotification();
         }

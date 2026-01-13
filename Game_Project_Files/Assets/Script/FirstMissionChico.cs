@@ -9,7 +9,7 @@ public class FirstMissionChico : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-
+        TutorialMission.TextCurrentOrder = 3;
         if (StartDialog2._TurnedOn)
         {
             _Chico.SetActive(true);

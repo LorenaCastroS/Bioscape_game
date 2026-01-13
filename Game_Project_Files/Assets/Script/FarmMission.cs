@@ -26,6 +26,7 @@ public class FarmMission : MonoBehaviour
         {
             _Doors.SetActive(true);
             DataPersistenceManager.instance.CurrentOrder = 2;
-        } 
+            TutorialMission.TextCurrentOrder = 4;
+        }
     }
 }
