@@ -254,6 +254,36 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 171540656791222929, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_text
+      value: "Realocar os moradores para um local j\xE1 desmatado enquanto l\xE1
+        \xE9 recuperado. Ap\xF3s alguns anos, volt\xE1-los \xE0 regi\xE3o e desmatar
+        novamente."
+      objectReference: {fileID: 0}
+    - target: {fileID: 171540656791222929, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_fontSize
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 171540656791222929, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_margin.x
+      value: -41.610855
+      objectReference: {fileID: 0}
+    - target: {fileID: 171540656791222929, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_margin.z
+      value: 251.81934
+      objectReference: {fileID: 0}
+    - target: {fileID: 171540656791222929, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 244815706881569265, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_text
+      value: "Aqu\xEDfero em perigo"
+      objectReference: {fileID: 0}
+    - target: {fileID: 390986089590951408, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_Name
+      value: "Decis\xE3o"
+      objectReference: {fileID: 0}
     - target: {fileID: 582644505457269488, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
       propertyPath: m_Size.x
       value: 2.3946533
@@ -270,6 +300,55 @@ PrefabInstance:
       propertyPath: m_Offset.y
       value: -159.73846
       objectReference: {fileID: 0}
+    - target: {fileID: 654625008376606978, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_text
+      value: "Reflorestar TODA a \xE1rea, parando as atividades econ\xF4micas dos
+        propriet\xE1rios, por\xE9m recuperando a vegeta\xE7\xE3o por completo"
+      objectReference: {fileID: 0}
+    - target: {fileID: 654625008376606978, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_fontSize
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 654625008376606978, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_margin.x
+      value: 29.828003
+      objectReference: {fileID: 0}
+    - target: {fileID: 654625008376606978, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_margin.z
+      value: 207.79424
+      objectReference: {fileID: 0}
+    - target: {fileID: 654625008376606978, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 654625008376606978, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_VerticalAlignment
+      value: 512
+      objectReference: {fileID: 0}
+    - target: {fileID: 735024599358560114, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 130
+      objectReference: {fileID: 0}
+    - target: {fileID: 735024599358560114, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 35
+      objectReference: {fileID: 0}
+    - target: {fileID: 735024599358560114, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 234
+      objectReference: {fileID: 0}
+    - target: {fileID: 735024599358560114, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 122
+      objectReference: {fileID: 0}
+    - target: {fileID: 795695966919636805, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 37.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 795695966919636805, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -0.6
+      objectReference: {fileID: 0}
     - target: {fileID: 1060423019251729008, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
       propertyPath: _characterVoice
       value: 
@@ -278,18 +357,343 @@ PrefabInstance:
       propertyPath: _characterVoice
       value: 
       objectReference: {fileID: 1640940493}
+    - target: {fileID: 1339895752079039157, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_Name
+      value: Vegetacao
+      objectReference: {fileID: 0}
+    - target: {fileID: 1599211289626018641, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 94
+      objectReference: {fileID: 0}
+    - target: {fileID: 1599211289626018641, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 34
+      objectReference: {fileID: 0}
+    - target: {fileID: 1599211289626018641, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 103
+      objectReference: {fileID: 0}
+    - target: {fileID: 1599211289626018641, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -213
+      objectReference: {fileID: 0}
+    - target: {fileID: 1625493993596801526, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_text
+      value: "Subornar os moradores locais a sa\xEDrem de suas terras."
+      objectReference: {fileID: 0}
+    - target: {fileID: 1713906494626376306, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_Name
+      value: "Aqu\xEDfero"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2196825466582686003, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 2196825466582686003, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 2196825466582686003, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 43
+      objectReference: {fileID: 0}
+    - target: {fileID: 2393801536428911162, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_text
+      value: "Aqu\xEDfero em perigo"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2518009893021356691, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_text
+      value: ---
+      objectReference: {fileID: 0}
+    - target: {fileID: 2518009893021356691, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_VerticalAlignment
+      value: 512
+      objectReference: {fileID: 0}
+    - target: {fileID: 2604998355558467708, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2760272012907541774, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 387
+      objectReference: {fileID: 0}
+    - target: {fileID: 3205744826214411292, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: a9621d9278029ff4191bc7a3e9850fd2, type: 3}
+    - target: {fileID: 3506289281815727901, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3634222189138018964, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
       propertyPath: _characterVoice
       value: 
       objectReference: {fileID: 1640940493}
+    - target: {fileID: 3733394988811552792, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 94
+      objectReference: {fileID: 0}
+    - target: {fileID: 3733394988811552792, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 44
+      objectReference: {fileID: 0}
+    - target: {fileID: 3733394988811552792, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 96
+      objectReference: {fileID: 0}
+    - target: {fileID: 3733394988811552792, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -214
+      objectReference: {fileID: 0}
+    - target: {fileID: 3811388347335960574, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_text
+      value: "Medidas precisam ser tomadas sobre o estado do aqu\xEDfero"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3811388347335960574, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_fontSize
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 3811388347335960574, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 3811388347335960574, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_VerticalAlignment
+      value: 512
+      objectReference: {fileID: 0}
+    - target: {fileID: 3821022036388444391, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3835051351457750374, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_text
+      value: "O aqu\xEDfero ainda vai durar tempo o suficiente pra n\xF3s que estamos
+        aqui hoje. N\xE3o precisa fazer nada, as gera\xE7\xF5es futuras resolvam."
+      objectReference: {fileID: 0}
+    - target: {fileID: 3835051351457750374, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_VerticalAlignment
+      value: 512
+      objectReference: {fileID: 0}
+    - target: {fileID: 3896991784012104247, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 386
+      objectReference: {fileID: 0}
+    - target: {fileID: 4217838907468482874, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_text
+      value: "Medidas precisam ser tomadas sobre o estado do aqu\xEDfero"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4217838907468482874, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_VerticalAlignment
+      value: 512
+      objectReference: {fileID: 0}
+    - target: {fileID: 4356878245332301338, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4356878245332301338, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4356878245332301338, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -258
+      objectReference: {fileID: 0}
+    - target: {fileID: 4511091462601388032, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4586588905943556216, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
       propertyPath: _characterVoice
       value: 
       objectReference: {fileID: 1640940493}
+    - target: {fileID: 5057552055623615636, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 130
+      objectReference: {fileID: 0}
+    - target: {fileID: 5057552055623615636, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 34
+      objectReference: {fileID: 0}
+    - target: {fileID: 5057552055623615636, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 233
+      objectReference: {fileID: 0}
+    - target: {fileID: 5057552055623615636, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 118
+      objectReference: {fileID: 0}
+    - target: {fileID: 5178256773467848663, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 94
+      objectReference: {fileID: 0}
+    - target: {fileID: 5178256773467848663, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 34
+      objectReference: {fileID: 0}
+    - target: {fileID: 5178256773467848663, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -179
+      objectReference: {fileID: 0}
+    - target: {fileID: 5368689798312516194, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_text
+      value: ---
+      objectReference: {fileID: 0}
+    - target: {fileID: 5368689798312516194, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_VerticalAlignment
+      value: 512
+      objectReference: {fileID: 0}
+    - target: {fileID: 5517385485746374865, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_text
+      value: " Recentemente foi aprovado um projeto de lei que altera a porcentagem
+        m\xEDnima de vegeta\xE7\xE3o de mata local, e isso pode ocasionar em menor
+        \xE1rea de mata ciliar, maior eros\xE3o das margens, menos reabastecimento
+        h\xEDdrico"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5517385485746374865, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_fontSize
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 5517385485746374865, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 5517385485746374865, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_VerticalAlignment
+      value: 512
+      objectReference: {fileID: 0}
+    - target: {fileID: 5658685093431167391, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 388
+      objectReference: {fileID: 0}
+    - target: {fileID: 5661661590997869021, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -619479513, guid: 6d1bcc1cf4426b940bd5ca5959d01d22, type: 3}
+    - target: {fileID: 5871901219840062149, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 94
+      objectReference: {fileID: 0}
+    - target: {fileID: 5871901219840062149, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 34
+      objectReference: {fileID: 0}
+    - target: {fileID: 5871901219840062149, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -212.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6090966928117229496, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -0.29999924
+      objectReference: {fileID: 0}
+    - target: {fileID: 6641330520579868807, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 6641330520579868807, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 6942328501454518488, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_text
+      value: "Aqu\xEDfero em perigo"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7103776997701817527, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_text
+      value: "Indenizar todos os propriet\xE1rios pelas suas terras enquanto elas
+        regeneram, mesmo que isso aumente os impostos do resto da popula\xE7\xE3o."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7103776997701817527, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_fontSize
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 7103776997701817527, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_margin.z
+      value: 184.18633
+      objectReference: {fileID: 0}
+    - target: {fileID: 7103776997701817527, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 7103776997701817527, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_VerticalAlignment
+      value: 512
+      objectReference: {fileID: 0}
+    - target: {fileID: 7200158679647189470, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 130
+      objectReference: {fileID: 0}
+    - target: {fileID: 7200158679647189470, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 35
+      objectReference: {fileID: 0}
+    - target: {fileID: 7200158679647189470, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 241
+      objectReference: {fileID: 0}
+    - target: {fileID: 7200158679647189470, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 93
+      objectReference: {fileID: 0}
+    - target: {fileID: 7356260549178792654, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -1237589779, guid: cd51081b8c9fba0419e910de0aabb25b, type: 3}
+    - target: {fileID: 7532411774837823989, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_text
+      value: " Convencer os governantes a aumentar a porcentagem m\xEDnima de vegeta\xE7\xE3o
+        nativa em cada propriedade, de uma forma que possa conciliar produ\xE7\xE3o
+        e conserva\xE7\xE3o"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7532411774837823989, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_fontSize
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 7532411774837823989, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_margin.z
+      value: 172.59538
+      objectReference: {fileID: 0}
+    - target: {fileID: 7532411774837823989, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 7532411774837823989, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_VerticalAlignment
+      value: 512
+      objectReference: {fileID: 0}
     - target: {fileID: 7580026481784282784, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
       propertyPath: _characterVoice
       value: 
       objectReference: {fileID: 1640940493}
+    - target: {fileID: 7607133185485613005, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_text
+      value: "Medidas precisam ser tomadas sobre o estado do aqu\xEDfero"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7607133185485613005, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_margin.x
+      value: -8.385494
+      objectReference: {fileID: 0}
+    - target: {fileID: 7607133185485613005, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_margin.z
+      value: -206.25838
+      objectReference: {fileID: 0}
+    - target: {fileID: 7607133185485613005, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_VerticalAlignment
+      value: 512
+      objectReference: {fileID: 0}
+    - target: {fileID: 7828346280868192336, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_text
+      value: "A prioridade \xE9 o meio ambiente, n\xE3o importa a economia, o que
+        perderem agora voc\xEAs ganhar\xE3o no futuro na forma de um ar mais puro
+        para nossos filhos"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7828346280868192336, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_fontSize
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 7828346280868192336, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 17
+      objectReference: {fileID: 0}
     - target: {fileID: 7950952883030602756, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
       propertyPath: m_LocalPosition.x
       value: -6.499813
@@ -329,6 +733,81 @@ PrefabInstance:
     - target: {fileID: 7950952883030602756, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8040930470905161185, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 94
+      objectReference: {fileID: 0}
+    - target: {fileID: 8040930470905161185, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 44
+      objectReference: {fileID: 0}
+    - target: {fileID: 8040930470905161185, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 352
+      objectReference: {fileID: 0}
+    - target: {fileID: 8040930470905161185, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -215
+      objectReference: {fileID: 0}
+    - target: {fileID: 8374497039818137640, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_text
+      value: "Ter uma \xE1rea m\xEDnima de vegeta\xE7\xE3o nativa regula novamente
+        os ciclos da chuva, o que pode ser ben\xE9fico para a agricultura. Tamb\xE9m,
+        quem tiver regularizado pode receber benef\xEDcios, isen\xE7\xF5es de impostos,
+        etc"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8374497039818137640, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_fontSize
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 8374497039818137640, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_margin.w
+      value: -18.80511
+      objectReference: {fileID: 0}
+    - target: {fileID: 8374497039818137640, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_margin.x
+      value: 3.9177246
+      objectReference: {fileID: 0}
+    - target: {fileID: 8374497039818137640, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_margin.y
+      value: -23.671139
+      objectReference: {fileID: 0}
+    - target: {fileID: 8374497039818137640, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_margin.z
+      value: 164.69444
+      objectReference: {fileID: 0}
+    - target: {fileID: 8374497039818137640, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 8386869011028800288, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_text
+      value: ---
+      objectReference: {fileID: 0}
+    - target: {fileID: 8386869011028800288, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_VerticalAlignment
+      value: 512
+      objectReference: {fileID: 0}
+    - target: {fileID: 8459572255724685729, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -261
+      objectReference: {fileID: 0}
+    - target: {fileID: 8623881578887261867, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 94
+      objectReference: {fileID: 0}
+    - target: {fileID: 8623881578887261867, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 34
+      objectReference: {fileID: 0}
+    - target: {fileID: 8623881578887261867, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 361
+      objectReference: {fileID: 0}
+    - target: {fileID: 8623881578887261867, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -178
       objectReference: {fileID: 0}
     - target: {fileID: 8684184564928791011, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
       propertyPath: _characterVoice
