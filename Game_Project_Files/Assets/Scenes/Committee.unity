@@ -325,6 +325,10 @@ PrefabInstance:
       propertyPath: m_VerticalAlignment
       value: 512
       objectReference: {fileID: 0}
+    - target: {fileID: 660774783765614162, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: _localizedString.m_TableEntryReference.m_KeyId
+      value: 2132158902272
+      objectReference: {fileID: 0}
     - target: {fileID: 735024599358560114, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
       propertyPath: m_SizeDelta.x
       value: 130
@@ -357,6 +361,10 @@ PrefabInstance:
       propertyPath: _characterVoice
       value: 
       objectReference: {fileID: 1640940493}
+    - target: {fileID: 1232139841165791482, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: _localizedString.m_TableEntryReference.m_KeyId
+      value: 437584588800
+      objectReference: {fileID: 0}
     - target: {fileID: 1339895752079039157, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
       propertyPath: m_Name
       value: Vegetacao
@@ -377,6 +385,10 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: -213
       objectReference: {fileID: 0}
+    - target: {fileID: 1624441636096412993, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: _localizedString.m_TableEntryReference.m_KeyId
+      value: 595747598336
+      objectReference: {fileID: 0}
     - target: {fileID: 1625493993596801526, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
       propertyPath: m_text
       value: "Subornar os moradores locais a sa\xEDrem de suas terras."
@@ -384,6 +396,10 @@ PrefabInstance:
     - target: {fileID: 1713906494626376306, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
       propertyPath: m_Name
       value: "Aqu\xEDfero"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1940882724565725407, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: _localizedString.m_TableEntryReference.m_KeyId
+      value: 1275539419136
       objectReference: {fileID: 0}
     - target: {fileID: 2196825466582686003, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
       propertyPath: m_SizeDelta.x
@@ -413,9 +429,17 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2748365372131868782, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: _localizedString.m_TableEntryReference.m_KeyId
+      value: 1326877700096
+      objectReference: {fileID: 0}
     - target: {fileID: 2760272012907541774, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 387
+      objectReference: {fileID: 0}
+    - target: {fileID: 3179902595289670316, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: _localizedString.m_TableEntryReference.m_KeyId
+      value: 1025072361472
       objectReference: {fileID: 0}
     - target: {fileID: 3205744826214411292, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
       propertyPath: m_Sprite
@@ -544,7 +568,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5517385485746374865, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
       propertyPath: m_text
-      value: " Recentemente foi aprovado um projeto de lei que altera a porcentagem
+      value: "Recentemente foi aprovado um projeto de lei que altera a porcentagem
         m\xEDnima de vegeta\xE7\xE3o de mata local, e isso pode ocasionar em menor
         \xE1rea de mata ciliar, maior eros\xE3o das margens, menos reabastecimento
         h\xEDdrico"
@@ -560,6 +584,10 @@ PrefabInstance:
     - target: {fileID: 5517385485746374865, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
       propertyPath: m_VerticalAlignment
       value: 512
+      objectReference: {fileID: 0}
+    - target: {fileID: 5595272728881325081, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: _localizedString.m_TableEntryReference.m_KeyId
+      value: 869522403328
       objectReference: {fileID: 0}
     - target: {fileID: 5658685093431167391, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
       propertyPath: m_AnchoredPosition.y
@@ -592,6 +620,10 @@ PrefabInstance:
     - target: {fileID: 6641330520579868807, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
       propertyPath: m_SizeDelta.y
       value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 6762097172487273058, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: _localizedString.m_TableEntryReference.m_KeyId
+      value: 2725170573312
       objectReference: {fileID: 0}
     - target: {fileID: 6942328501454518488, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
       propertyPath: m_text
@@ -679,6 +711,10 @@ PrefabInstance:
     - target: {fileID: 7607133185485613005, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
       propertyPath: m_VerticalAlignment
       value: 512
+      objectReference: {fileID: 0}
+    - target: {fileID: 7686585538731667080, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
+      propertyPath: _localizedString.m_TableEntryReference.m_KeyId
+      value: 1887983300608
       objectReference: {fileID: 0}
     - target: {fileID: 7828346280868192336, guid: 7aaa0d2ebdfac6640b57803824b281a9, type: 3}
       propertyPath: m_text
