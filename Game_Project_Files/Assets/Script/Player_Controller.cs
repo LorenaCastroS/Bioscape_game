@@ -24,7 +24,7 @@ public class PlayerController : MonoBehaviour//, IDataPersistence
     public bool _InDialog = true; //Detects if the player is in a dialog
     public Transform _Player;// Player transform
     public int spawnID;// Spawn ID
-    [SerializeField] private GameObject pauseMenu;
+    /*[SerializeField] private GameObject pauseMenu;*/
 
 
     void Awake()
@@ -105,11 +105,12 @@ public class PlayerController : MonoBehaviour//, IDataPersistence
             _CanInteract = false; // Sets the player to not be able to interact
             StartCoroutine(InteractionCooldown()); // Starts the interaction cooldown
         }
-        if (Input.GetKeyDown(KeyCode.Escape)) // If player press escape the pause menu is activated
+
+        /*if (Input.GetKeyDown(KeyCode.Escape)) // If player press escape the pause menu is activated
 
         {
             pauseGame(); // Pauses the game
-        }
+        }*/
     }
     void FixedUpdate() // FixedUpdate is called every fixed framerate frame
 
@@ -251,7 +252,7 @@ public class PlayerController : MonoBehaviour//, IDataPersistence
         _InDialog = value;
     }
 
-
+    /*
     public void pauseGame()
     {
         pauseMenu.SetActive(true);
@@ -268,7 +269,7 @@ public class PlayerController : MonoBehaviour//, IDataPersistence
     {
         SceneManager.LoadScene("Menu");
 
-    }
+    }*/
 
     public void StopMovement() //puts the player's speed to zero
     {
